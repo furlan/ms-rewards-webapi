@@ -1,0 +1,22 @@
+[
+    {
+       "customerId": 1,
+       "totalRewards": 270,
+       "rewards": 
+         [
+           { "month": "4", "total": "100"},
+           { "month": "5", "total": "130"},
+           { "month": "6", "total": "40"} 
+         ] 
+    },
+    {
+      "customerId": 2,
+      "totalRewards": 180,
+      "rewards": 
+        [
+          { "month": "4", "total": "110"},
+          { "month": "5", "total": "30"},
+          { "month": "6", "total": "40"} 
+        ] 
+   }
+]
