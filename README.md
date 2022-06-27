@@ -4,6 +4,7 @@ A retailer offers a rewards program to its customers, awarding points based on e
 
 ## Actual Solution
 The actual solution is using demo data embedded in the Customer class.
+To simplify the solution, all values are integers.
 For the next versions, it will be retrieved from DB.
 
 ## Reward rules
